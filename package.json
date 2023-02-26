@@ -1,8 +1,8 @@
 {
-  "name": "com.pancake.__package_name__",
-  "displayName": "__Package_Name__",
-  "description": "__Package_Description__",
-  "version": "1.0.0",
+  "name": "com.pancake.demystifier",
+  "displayName": "Ben Demystifier",
+  "description": "Output the modern C# 7.0+ features in stack traces that looks like the C# source code that generated them rather than IL formatted. ",
+  "version": "0.4.1",
   "unity": "2021.3",
   "category": "pancake",
   "author": {
@@ -16,17 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:pancake-llc/__name_repo_contain_package__.git",
-    "directory": "__Package_Display_Name__"
+    "url": "git@github.com:pancake-llc/ben-demystifier.git",
+    "directory": "Ben Demystifier"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@pancake-llc"
-  }/*,
-  "samples": [
-  {
-    "displayName": "__Sample Name__",
-    "description": "__Sample_Description__",
-    "path": "Samples~/__Name_Folder_Sample__"
   }
-]*/
 }
